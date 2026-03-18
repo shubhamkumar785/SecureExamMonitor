@@ -1,8 +1,4 @@
-# SecureExamMonitor
-
-A secure exam browser backend integrated with Spring Boot and MySQL for real-time monitoring of student activities, including tab switching, fullscreen exit, and suspicious behavior tracking using REST APIs and WebSockets.
-
-## Secure Exam Browser Backend Integration
+# Secure Exam Browser Backend Integration
 
 Spring Boot backend with MySQL persistence, REST + WebSocket event ingestion, and JWT-based authentication.
 

@@ -1,0 +1,15 @@
+package com.exam.backend.event;
+
+public enum EventType {
+    TAB_SWITCH,
+    WINDOW_BLUR,
+    FULLSCREEN_EXIT,
+    WEBCAM_DISABLED,
+    MICROPHONE_DISABLED,
+    MULTIPLE_DEVICE_ACTIVITY,
+    SUSPICIOUS_ACTION,
+    COPY_ATTEMPT,
+    PASTE_ATTEMPT,
+    RIGHT_CLICK,
+    UNKNOWN
+}
